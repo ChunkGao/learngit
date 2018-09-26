@@ -2,5 +2,6 @@ first Git file !!!.
 second sts.
 GpL
 Git tracks changes.
-creating a new branch is quick.& simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
 NEw
